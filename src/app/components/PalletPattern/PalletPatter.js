@@ -1,14 +1,13 @@
 'use client';
 import React, { useState } from "react";
 import Image from "next/image";
-import view from '../assets/shipment-icon/view.png'
 import c1 from '../assets/PalletImage/c1.jpg';
 import c2 from '../assets/PalletImage/c2.jpg';
 import c3 from '../assets/PalletImage/c3.jpg';
 import c4 from '../assets/PalletImage/c4.jpg';
 import c5 from '../assets/PalletImage/c5.jpg';
 import c6 from '../assets/PalletImage/c6.jpg';
-import c7 from '../assets/PalletImage/c6.jpg';
+import c7 from '../assets/PalletImage/c7.jpg'; // Ensure this file exists
 import c8 from '../assets/PalletImage/c8.jpg';
 import c9 from '../assets/PalletImage/c9.jpg';
 import p1 from '../assets/PalletImage/p1.jpg';
@@ -20,6 +19,7 @@ import p6 from '../assets/PalletImage/p6.jpg';
 import x1 from '../assets/PalletImage/x1.jpg';
 import x2 from '../assets/PalletImage/x2.jpg';
 import x3 from '../assets/PalletImage/x3.jpg';
+
 
 
 
