@@ -2,24 +2,24 @@
 import React, { useState } from "react";
 import Image from "next/image";
 import view from '../assests/shipment-icon/view.png'
-import c1 from '../assests/Palltet-img/c1.jpg';
-import c2 from '../assests/Palltet-img/c2.jpg';
-import c3 from '../assests/Palltet-img/c3.jpg';
-import c4 from '../assests/Palltet-img/c4.jpg';
-import c5 from '../assests/Palltet-img/c5.jpg';
-import c6 from '../assests/Palltet-img/c6.jpg';
-import c7 from '../assests/Palltet-img/c6.jpg';
-import c8 from '../assests/Palltet-img/c8.jpg';
-import c9 from '../assests/Palltet-img/c9.jpg';
-import p1 from '../assests/Palltet-img/p1.jpg';
-import p2 from '../assests/Palltet-img/p2.jpg';
-import p3 from '../assests/Palltet-img/p3.jpg';
-import p4 from '../assests/Palltet-img/p4.jpg';
-import p5 from '../assests/Palltet-img/p5.jpg';
-import p6 from '../assests/Palltet-img/p6.jpg';
-import x1 from '../assests/Palltet-img/x1.jpg';
-import x2 from '../assests/Palltet-img/x2.jpg';
-import x3 from '../assests/Palltet-img/x3.jpg';
+import c1 from '../assests/PalletImage/c1.jpg';
+import c2 from '../assests/PalletImage/c2.jpg';
+import c3 from '../assests/PalletImage/c3.jpg';
+import c4 from '../assests/PalletImage/c4.jpg';
+import c5 from '../assests/PalletImage/c5.jpg';
+import c6 from '../assests/PalletImage/c6.jpg';
+import c7 from '../assests/PalletImage/c6.jpg';
+import c8 from '../assests/PalletImage/c8.jpg';
+import c9 from '../assests/PalletImage/c9.jpg';
+import p1 from '../assests/PalletImage/p1.jpg';
+import p2 from '../assests/PalletImage/p2.jpg';
+import p3 from '../assests/PalletImage/p3.jpg';
+import p4 from '../assests/PalletImage/p4.jpg';
+import p5 from '../assests/PalletImage/p5.jpg';
+import p6 from '../assests/PalletImage/p6.jpg';
+import x1 from '../assests/PalletImage/x1.jpg';
+import x2 from '../assests/PalletImage/x2.jpg';
+import x3 from '../assests/PalletImage/x3.jpg';
 
 
 
