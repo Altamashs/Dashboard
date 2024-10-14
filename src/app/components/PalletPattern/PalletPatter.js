@@ -11,15 +11,15 @@ import c6 from '../assets/PalletImage/c6.jpg';
 import c7 from '../assets/PalletImage/c6.jpg';
 import c8 from '../assets/PalletImage/c8.jpg';
 import c9 from '../assets/PalletImage/c9.jpg';
-import p1 from '@/assets/PalletImage/p1.jpg';
-import p2 from '@/assets/PalletImage/p2.jpg';
-import p3 from '@/assets/PalletImage/p3.jpg';
-import p4 from '@/assets/PalletImage/p4.jpg';
-import p5 from '@/assets/PalletImage/p5.jpg';
-import p6 from '@/assets/PalletImage/p6.jpg';
-import x1 from '@/assets/PalletImage/x1.jpg';
-import x2 from '@/assets/PalletImage/x2.jpg';
-import x3 from '@/assets/PalletImage/x3.jpg';
+import p1 from '../assets/PalletImage/p1.jpg';
+import p2 from '../assets/PalletImage/p2.jpg';
+import p3 from '../assets/PalletImage/p3.jpg';
+import p4 from '../assets/PalletImage/p4.jpg';
+import p5 from '../assets/PalletImage/p5.jpg';
+import p6 from '../assets/PalletImage/p6.jpg';
+import x1 from '../assets/PalletImage/x1.jpg';
+import x2 from '../assets/PalletImage/x2.jpg';
+import x3 from '../assets/PalletImage/x3.jpg';
 
 
 
