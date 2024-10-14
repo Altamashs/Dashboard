@@ -10,10 +10,6 @@ import c6 from '../assets/PalletImage/c6.jpg';
 import c7 from '../assets/PalletImage/c7.jpg'; // Ensure this file exists
 import c8 from '../assets/PalletImage/c8.jpg';
 import c9 from '../assets/PalletImage/c9.jpg';
-import p6 from '../assets/PalletImage/p6.jpg';
-import x1 from '../assets/PalletImage/x1.jpg';
-import x2 from '../assets/PalletImage/x2.jpg';
-import x3 from '../assets/PalletImage/x3.jpg';
 
 
 
@@ -29,10 +25,6 @@ const patterns = [
   { id: 'C7', imgSrc: c7 },
   { id: 'C8', imgSrc: c8 }, 
   { id: 'C9', imgSrc: c9 },  
-  { id: 'p6', imgSrc: p6 }, 
-  { id: 'x1', imgSrc: x1 }, 
-  { id: 'x2', imgSrc: x2 },
-  { id: 'x3', imgSrc: x3 }, 
 
 ];
 
