@@ -1,20 +1,20 @@
 import Counter from './Counter';
 
 import Image from 'next/image';
-import prepareIcon from '../assests/shipment-icon/shipment.png'
-import prepareWhtIcon from '../assests/shipment-icon/shipment-wht.png'
-import ticket from '../assests/shipment-icon/ticket.png'
-import ticketwht from '../assests/shipment-icon/ticket-wht.png'
-import shipped from '../assests/shipment-icon/cargo-ship.png'
-import shippedWht from '../assests/shipment-icon/cargo-ship-wht.png'
-import bill from '../assests/shipment-icon/bill.png'
-import billWht from '../assests/shipment-icon/bill-wht.png'
-import work from '../assests/shipment-icon/work-table.png'
-import workWht from '../assests/shipment-icon/work-table-wht.png'
-import pick from '../assests/shipment-icon/picking.png'
-import pickWht from '../assests/shipment-icon/picking-wht.png'
-import edit from '../assests/shipment-icon/edit.png'
-import editwht from '../assests/shipment-icon/edit-wht.png'
+import prepareIcon from '../assets/shipment-icon/shipment.png'
+import prepareWhtIcon from '../assets/shipment-icon/shipment-wht.png'
+import ticket from '../assets/shipment-icon/ticket.png'
+import ticketwht from '../assets/shipment-icon/ticket-wht.png'
+import shipped from '../assets/shipment-icon/cargo-ship.png'
+import shippedWht from '../assets/shipment-icon/cargo-ship-wht.png'
+import bill from '../assets/shipment-icon/bill.png'
+import billWht from '../assets/shipment-icon/bill-wht.png'
+import work from '../assets/shipment-icon/work-table.png'
+import workWht from '../assets/shipment-icon/work-table-wht.png'
+import pick from '../assets/shipment-icon/picking.png'
+import pickWht from '../assets/shipment-icon/picking-wht.png'
+import edit from '../assets/shipment-icon/edit.png'
+import editwht from '../assets/shipment-icon/edit-wht.png'
 
 
 // css import  //
