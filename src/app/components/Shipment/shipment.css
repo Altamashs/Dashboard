@@ -1,0 +1,25 @@
+.lght-img{
+    width: 50px !important;
+    background-color: #eff2f7;
+    padding: 6px;
+    border-radius: 14px;
+}
+
+.dark .drk-img{
+    width: 50px !important;
+    background-color: #24303f;
+    padding: 6px;
+    border-radius: 14px;
+}
+.number{
+    font-weight: 700;
+    color: #64748b;
+    font-size: 24px;
+    line-height: 32px;
+}
+.dark .number{
+    font-weight: 700;
+    color: #FFF;
+    font-size: 24px;
+    line-height: 32px;
+}
