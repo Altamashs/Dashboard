@@ -1,13 +1,14 @@
 'use client';
 import React, { useState } from "react";
 import Image from "next/image";
+import view from '../assets/shipment-icon/view.png'
 import c1 from '../assets/PalletImage/c1.jpg';
 import c2 from '../assets/PalletImage/c2.jpg';
 import c3 from '../assets/PalletImage/c3.jpg';
 import c4 from '../assets/PalletImage/c4.jpg';
 import c5 from '../assets/PalletImage/c5.jpg';
 import c6 from '../assets/PalletImage/c6.jpg';
-import c7 from '../assets/PalletImage/c7.jpg'; // Ensure this file exists
+import c7 from '../assets/PalletImage/c6.jpg';
 import c8 from '../assets/PalletImage/c8.jpg';
 import c9 from '../assets/PalletImage/c9.jpg';
 
@@ -24,7 +25,7 @@ const patterns = [
   { id: 'C6', imgSrc: c6 }, 
   { id: 'C7', imgSrc: c7 },
   { id: 'C8', imgSrc: c8 }, 
-  { id: 'C9', imgSrc: c9 },  
+  { id: 'C9', imgSrc: c9 }, 
 
 ];
 
