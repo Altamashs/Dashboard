@@ -14,7 +14,7 @@ export default function Bargraph() {
             
             <BarChart
             xAxis={[{ scaleType: 'band', data: ['P21', 'P23', 'P31', 'P32', 'P33'],}]}  
-            series={[{ data: [2.5, 10.5, 7, 1, 2.5], color: '#3f51b5' }]}  
+            series={[{ data: [2.5, 10.5, 7, 1, 2.5] }]}  
             width={800}
             height={500}
             />

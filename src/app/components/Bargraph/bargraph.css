@@ -12,5 +12,5 @@
     stroke: #FFF;
 }
 rect.MuiBarElement-root {
-    fill: #3f51b5;
+    fill: #3f51b5 !important;
 }
