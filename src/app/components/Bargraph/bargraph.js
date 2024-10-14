@@ -17,7 +17,6 @@ export default function Bargraph() {
             series={[{ data: [2.5, 10.5, 7, 1, 2.5], color: '#3f51b5' }]}  
             width={800}
             height={500}
-            colors={['#3f51b5']}  
             />
 
             <div className='text-center text-lg text-textColor dark:text-white font-semibold pb-2  mt-2'>
