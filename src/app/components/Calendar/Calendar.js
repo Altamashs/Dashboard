@@ -1,7 +1,7 @@
 'use client'
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import './Calendar.css'; 
+import './Calendar.css';
 
 const Calendar = () => {
   const [selectedDate, setSelectedDate] = useState(new Date());
